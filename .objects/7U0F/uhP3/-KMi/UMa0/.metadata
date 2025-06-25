@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Extract Table Data of account details",
+  "Type": "Element",
+  "Id": "UMa0LT3EvECBaRbSSeGRIQ",
+  "Reference": "6D5pAKf_xE-XusGLD7OiTg/UMa0LT3EvECBaRbSSeGRIQ",
+  "ParentRef": "6D5pAKf_xE-XusGLD7OiTg/-KMi0EBCQEGc-atp76aTMw",
+  "Created": "2025-06-14T07:47:55.3781943Z",
+  "Updated": "2025-06-14T07:47:55.3781943Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qPx_VhOe0UaGTzjdzzT0Ng" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="36535ca4-275b-448c-af26-2569dbc6f5cd" CvElementArea="873, 844, 171, 66" CvTextArea="901, 867, 113, 23" CvTextArgument="Apply Now" CvType="Button" DesignTimeRectangle="877, 847, 165, 61" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="a8a8ad9e-6c7e-403a-857a-89a03b6d4da7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="36535ca4-275b-448c-af26-2569dbc6f5cd" CvTextArea="544, 757, 828, 30" CvTextArgument="*Open an new account in the next 30 days and receive $50 on us!" CvType="Text" DesignTimeRectangle="392, 757, 1135, 30" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H5' type='' class='text-white' aaname=' *Open an new account in the next 30 days and receive $50 on us! ' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' check:innerText='*Open an new account in the next 30 days and receive $50 on us!' /&gt;" Guid="cbad4cfb-bf9a-4d4f-8a70-93b21b0cd6e2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e851ddf74d323dad48500e8d782db120.png" xmlns="">0eV-CJqdRFkyGn055_KosFQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

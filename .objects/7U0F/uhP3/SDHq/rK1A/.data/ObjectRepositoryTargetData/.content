@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a3PfsTJRPUuQsHa4jeDIlg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts/account-apply" CVScreenId="095b50ae-7dcd-4851-ba2c-ce5d04db1bc7" CvElementArea="447, 775, 1002, 68" CvType="InputBox" DesignTimeRectangle="451, 776, 1000, 68" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='typeOfAccount' tag='SELECT' type='text' class='form-control uibank-input ng-touched ng-dirty ng-valid' aaname='Type of Account' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="45bda9f7-ad2f-4fb8-989d-ba70de132de6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Apply' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="095b50ae-7dcd-4851-ba2c-ce5d04db1bc7" CvTextArea="449, 755, 116, 17" CvTextArgument="Type of Account" CvType="Text" DesignTimeRectangle="451, 753, 113, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Type of Account' tag='LABEL' type='' class='uibank-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Type of Account' /&gt;" Guid="d9b2cbea-1089-4c3e-a78e-769ad92378e9" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cdde08773c5960a93c827b74ee98caaa.png" xmlns="">02Rap2ftD2E6EZmh8EZYKzw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

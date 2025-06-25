@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O8PG2selJ0qb78brKKjghg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/login" CVScreenId="8546f246-adbf-4053-9311-5150eed6be2f" CvElementArea="891, 797, 155, 49" CvTextArea="941, 811, 54, 20" CvTextArgument="Sign In" CvType="Button" DesignTimeRectangle="894, 799, 150, 45" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='BUTTON' type='submit' /&gt;" Guid="72705d35-1849-4ef4-92a5-259ff1bf8a95" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Login' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="594, 734, 135, 34" FullSelectorArgument="&lt;webctrl aaname='Register For Account' id='emailHelp' tag='SMALL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Register For Account' id='emailHelp' tag='SMALL' type='' class='form-text text-muted text-white' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Register For Account' /&gt;" Guid="d5587b8f-4e2c-4e14-a055-8039b6a5278a" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="54050b92e429c4c34761dc6f58bd0bfd.png" xmlns="">0zrCXCRcnRUiAKF6DP0HeKQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

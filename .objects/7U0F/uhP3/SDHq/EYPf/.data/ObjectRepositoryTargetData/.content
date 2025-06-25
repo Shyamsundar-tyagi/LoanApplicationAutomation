@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GFXWNWbgHkCFeSHHsq2qew" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="f49385eb-f9fa-4cf1-84cc-ec4a209259a9" CvTextArea="1508, 258, 78, 26" CvTextArgument="Logout" CvType="Text" DesignTimeRectangle="1499, 244, 96, 54" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Logout' tag='A' /&gt;" Guid="015f0f1c-4c45-461d-9eac-fad4a795cf83" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f49385eb-f9fa-4cf1-84cc-ec4a209259a9" CvTextArea="1419, 257, 70, 21" CvTextArgument="Profile" CvType="Text" DesignTimeRectangle="1411, 244, 88, 54" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Profile' tag='A' type='' class='nav-link text-dark' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Profile' /&gt;" Guid="be277632-14a6-4e53-89fd-557fb207d787" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c8ecbf8a415fb9bd2e107d661251323c.png" xmlns="">0vfB7Uh2hAESKJxuk3hO9IA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

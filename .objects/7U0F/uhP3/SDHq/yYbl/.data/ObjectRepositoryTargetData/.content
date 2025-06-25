@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qYwwMNT7L02x3BnByzUAZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts/account-apply" CVScreenId="0828fa1d-23a1-495c-8b6d-557cdc8b40b2" CvElementArea="457, 770, 1001, 69" CvType="InputBox" DesignTimeRectangle="459, 770, 1000, 68" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='typeOfAccount' tag='SELECT' type='text' class='form-control uibank-input ng-dirty ng-valid ng-touched' aaname='Type of Account' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="b7c2382e-f211-4509-ae3f-5a46de4f82c1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Apply' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0828fa1d-23a1-495c-8b6d-557cdc8b40b2" CvTextArea="457, 749, 115, 17" CvTextArgument="Type of Account" CvType="Text" DesignTimeRectangle="459, 747, 114, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Type of Account' tag='LABEL' type='' class='uibank-label' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Type of Account' /&gt;" Guid="51aaf28b-cc9a-4024-a7e0-6bc787d16b4d" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="45b701d9f117a76dc2f03a3213e5e551.png" xmlns="">0w6hceWuNUU6Uqx6Oje47vQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

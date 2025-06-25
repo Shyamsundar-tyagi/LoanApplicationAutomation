@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kU0muKPdCUmUMNhu44PnOQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" CVScreenId="3a183d55-08f5-4eff-9d86-391d1088c256" CvElementArea="793, 736, 332, 64" CvTextArea="826, 757, 246, 24" CvTextArgument="agree to the Privacy Policy" CvType="Button" DesignTimeRectangle="795, 737, 329, 61" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aaname='I agree to the Privacy Policy →' parentid='mat-mdc-dialog-0' tag='BUTTON' type='button' class='btn center-button btn-black' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='I agree to the Privacy Policy →' /&gt;" Guid="bd13dfe0-1d79-492e-877c-0254c44c3736" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="3a183d55-08f5-4eff-9d86-391d1088c256" CvTextArea="691, 862, 525, 17" CvTextArgument="If you want your data deleted at any time, please fill in this form" CvType="Text" DesignTimeRectangle="547, 858, 825, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl type='' parentid='mat-mdc-dialog-0' tag='P' class='small-text text-black' aaname=' If you want your data deleted at any time, please fill in this . ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='If you want your data deleted at any time, please fill in this form .' /&gt;" Guid="22895f7c-a74c-4f20-a6de-cb053d7b99c8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="972033fb9c750be42f1119882a59a570.png" xmlns="">0vb3rCR6KvUy41sbgxmW9nw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
